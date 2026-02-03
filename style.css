@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui;
+  background: #000000;
+  color: Green;
+  text-align: center;
+}
+
+div {
+ display: grid;
+  place-items: center;
+  height: 350;
+  border: 1px solid black;
+}
+
+img {
+  width: 50%;
+}
